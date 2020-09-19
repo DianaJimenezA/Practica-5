@@ -43,11 +43,18 @@ app.get('/VerificarPedidoRepartidor', (req, res)=>{
         cuerpo= body.body   
         var fecha = Date.now();
         console.log(fecha) 
-        console.log(cuerpo)
+        var res=AddPeticionRecibida(cuerpo)
         res.send(cuerpo)
     })
     
 })
+
+var exports=module.exports={};
+exports.AddPeticionRecibida=function(a)
+{
+    console.log(a)
+    return 'respondio correctamente';
+};
 
 app.listen(5000, ()=>{
     console.log('Servicio de Cliente')
