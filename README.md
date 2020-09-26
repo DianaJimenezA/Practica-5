@@ -21,3 +21,4 @@ Para esta practica se realizo las fases de
 -Configuracion de Sonarqube en jenkins
 -Creacion de artefacto desde Jenkins
 -Commit desde Jenkins
+No se pudo completar el proceso en Jenkins al enviar el artefacto, se deja evidencia de lo realizado: https://github.com/DianaJimenezA/Practica-5/blob/master/Practica%207%20Jenkins.PNG
