@@ -14,3 +14,10 @@ Se inicio un nuevo repositorio con un versionamiento SEMVER.
 10. Link video demostracion: https://youtu.be/Aw5QY3rqVlY
 11. Rama Trabajada: https://github.com/DianaJimenezA/Practica-5/tree/feature/UnitTest
 
+# Practica 7
+Para esta practica se realizo las fases de
+-Actualizacion
+-Ejecucion de pruebas
+-Configuracion de Sonarqube en jenkins
+-Creacion de artefacto desde Jenkins
+-Commit desde Jenkins
